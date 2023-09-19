@@ -97,6 +97,7 @@ class HiscoreResult(object):
 		'Dagannoth Rex',
 		'Dagannoth Supreme',
 		'Deranged Archaeologist',
+		'Duke Sucellus',
 		'General Graardor',
 		'Giant Mole',
 		'Grotesque Guardians',
@@ -119,6 +120,8 @@ class HiscoreResult(object):
 		'Tempoross',
 		'Gauntlet',
 		'Corrupted Gauntlet',
+		'Leviathan',
+		'Whisperer',
 		'Theatre of Blood',
 		'Theatre of Blood (Hard Mode)',
 		'Thermonuclear Smoke Devil',
@@ -126,6 +129,7 @@ class HiscoreResult(object):
 		'Tombs of Amascut (Expert Mode)',
 		'TzKal-Zuk',
 		'TzTok-Jad',
+		'Vardorvis',
 		'Venenatis',
 		'Vet\'ion',
 		'Vorkath',
@@ -136,7 +140,9 @@ class HiscoreResult(object):
 
 	bh_labels = [
 		'Bounty Hunter (rogue)',
-		'Bounty Hunter (hunter)'
+		'Bounty Hunter (hunter)',
+		'Bounty Hunter (rogue, legacy)',
+		'Bounty Hunter (hunter, legacy)'
 	]
 
 	score_labels = \
